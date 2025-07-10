@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour hassounds="0" appversion="7.1.9" start="node1" apprev="20995">
+  <panorama id="node1">
+    <input height="2752" levelbias="0.400" leveltilesize="510" width="2752" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="2752" predecode="0" width="2752"/>
+      <level preload="0" height="1376" predecode="0" width="1376"/>
+      <level preload="0" height="688" predecode="0" width="688"/>
+      <level preload="1" height="344" predecode="1" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" projection="4" tilt="-10.98" pan="-179.53"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-80" pan="0"/>
+      <max fovstereographic="330" scaletofit="1" fov="140" tilt="90" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata tags="100RICOH" info="" author="" latitude="52.267514" datetime="06.07.25 18:20" customnodeid="" comment="" nodeid="node1" title="Eingang" copyright="" longitude="9.132381" heading="0" source="" altitude="151.80" description=""/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" width="180" textcolor="0x000000" background="1" textalpha="1" backgroundalpha="1" borderradius="1" enabled="1" border="1" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0"/>
+      <hotspot distance="9.73006" tilt="-11.53" skinid="ht_node" title="Gaderobe" target="178.6/-13.7/100.0" url="{node2}" pan="-179.33" description="" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" delay="none" zoomafteroutfov="40" type="mesh" zoomafterinfov="140" zoomout="0" zoomspeed="2" blendcolor="0x000000" softedge="0" blendtime="1" enabled="1" zoomoutpause="1" zoomin="7"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedwheel="0" rubberband="0" hideabout="0" sensitivity="8" contextvr="1" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" invertcontrol="1" simulatemass="1" speedwheel="1" contextfullscreen="1" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input height="2752" levelbias="0.400" leveltilesize="510" width="2752" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="2752" predecode="0" width="2752"/>
+      <level preload="0" height="1376" predecode="0" width="1376"/>
+      <level preload="0" height="688" predecode="0" width="688"/>
+      <level preload="1" height="344" predecode="1" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" projection="4" tilt="-13.67" pan="178.58"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-80" pan="0"/>
+      <max fovstereographic="330" scaletofit="1" fov="140" tilt="90" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata tags="100RICOH" info="" author="" latitude="52.267475" datetime="06.07.25 18:21" customnodeid="" comment="" nodeid="node2" title="Gaderobe" copyright="" longitude="9.132253" heading="0" source="" altitude="149.70" description=""/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" width="180" textcolor="0x000000" background="1" textalpha="1" backgroundalpha="1" borderradius="1" enabled="1" border="1" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0"/>
+      <hotspot distance="13.5494" tilt="-9.37" skinid="ht_node" title="Kassenbereich" target="89.3/-34.4/100.0" url="{node3}" pan="-173.37" description="" id="Point02"/>
+      <hotspot distance="9.73006" tilt="-13.53" skinid="ht_node" title="Eingang" target="3.2/-14.9/100.0" url="{node1}" pan="-3.69" description="" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" delay="none" zoomafteroutfov="40" type="mesh" zoomafterinfov="140" zoomout="0" zoomspeed="2" blendcolor="0x000000" softedge="0" blendtime="1" enabled="1" zoomoutpause="1" zoomin="7"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedwheel="0" rubberband="0" hideabout="0" sensitivity="8" contextvr="1" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" invertcontrol="1" simulatemass="1" speedwheel="1" contextfullscreen="1" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input height="2752" levelbias="0.400" leveltilesize="510" width="2752" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="2752" predecode="0" width="2752"/>
+      <level preload="0" height="1376" predecode="0" width="1376"/>
+      <level preload="0" height="688" predecode="0" width="688"/>
+      <level preload="1" height="344" predecode="1" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" projection="4" tilt="-32.6788" pan="89.5422"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-80" pan="0"/>
+      <max fovstereographic="330" scaletofit="1" fov="140" tilt="90" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata tags="100RICOH" info="" author="" latitude="52.267386" datetime="06.07.25 18:22" customnodeid="" comment="" nodeid="node3" title="Kassenbereich" copyright="" longitude="9.132389" heading="0" source="" altitude="146.20" description=""/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" width="180" textcolor="0x000000" background="1" textalpha="1" backgroundalpha="1" borderradius="1" enabled="1" border="1" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0"/>
+      <hotspot distance="19.0423" tilt="-13.66" skinid="ht_node" title="Wartebereich" target="-173.4/-25.4/100.0" url="{node6}" pan="-27.67" description="" id="Point01"/>
+      <hotspot distance="20.0494" tilt="-16.39" skinid="ht_node" title="Friseurplätze 1-2" target="93.0/-14.7/100.0" url="{node4}" pan="-179.76" description="" id="Point02"/>
+      <hotspot url="images/c191a464-ccdd-4386-9e98-608c362236af.jpg" target="" tilt="-45.02" skinid="ht_image" pan="-268.48" title="Preisliste: Damen" description="" id="Point03"/>
+      <hotspot url="images/194ad965-dfa6-42ce-8dd6-2621e60febda.jpg" target="" tilt="-44.81" skinid="ht_image" pan="-282.72" title="Preisliste: Herren/Kinder + Extras" description="" id="Point04"/>
+      <hotspot distance="13.5494" tilt="-15.27" skinid="ht_node" title="Gaderobe" target="-0.7/-7.9/100.0" url="{node2}" pan="-89.74" description="" id="Point05"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" delay="none" zoomafteroutfov="40" type="mesh" zoomafterinfov="140" zoomout="0" zoomspeed="2" blendcolor="0x000000" softedge="0" blendtime="1" enabled="1" zoomoutpause="1" zoomin="7"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedwheel="0" rubberband="0" hideabout="0" sensitivity="8" contextvr="1" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" invertcontrol="1" simulatemass="1" speedwheel="1" contextfullscreen="1" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input height="2752" levelbias="0.400" leveltilesize="510" width="2752" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="2752" predecode="0" width="2752"/>
+      <level preload="0" height="1376" predecode="0" width="1376"/>
+      <level preload="0" height="688" predecode="0" width="688"/>
+      <level preload="1" height="344" predecode="1" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" projection="4" tilt="-14.7" pan="92.99"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-80" pan="0"/>
+      <max fovstereographic="330" scaletofit="1" fov="140" tilt="90" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata tags="100RICOH" info="" author="" latitude="52.267208" datetime="06.07.25 18:22" customnodeid="" comment="" nodeid="node4" title="Friseurplätze 1-2" copyright="" longitude="9.132342" heading="0" source="" altitude="127.00" description=""/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" width="180" textcolor="0x000000" background="1" textalpha="1" backgroundalpha="1" borderradius="1" enabled="1" border="1" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0"/>
+      <hotspot distance="15.8019" tilt="-11.32" skinid="ht_node" title="Friseurplätze 3-4" target="-175.9/-4.1/100.0" url="{node5}" pan="-175.47" description="" id="Point02"/>
+      <hotspot distance="20.0494" tilt="-10.36" skinid="ht_node" title="Kassenbereich" target="-6.6/-15.5/100.0" url="{node3}" pan="-89.31" description="" id="Point01"/>
+      <hotspot url="images/d68909ab-f78a-4499-9c72-bee82d311f01.jpg" target="" tilt="-33.1" skinid="ht_image" pan="-327.97" title="" description="" id="Point03"/>
+      <hotspot url="images/8faadc49-5aa5-40ad-a38f-a478db00fb02.jpg" target="" tilt="-18.16" skinid="ht_image" pan="-193.7" title="" description="" id="Point04"/>
+      <hotspot url="images/e6d1dd84-f420-4b7e-a07b-f6080dd52750.jpg" target="" tilt="-37.72" skinid="ht_image" pan="-217.56" title="" description="" id="Point05"/>
+      <hotspot url="images/8f861c8a-55fa-4dac-a42b-bc97bad89c70.jpg" target="" tilt="-21.93" skinid="ht_image" pan="-147.07" title="" description="" id="Point06"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" delay="none" zoomafteroutfov="40" type="mesh" zoomafterinfov="140" zoomout="0" zoomspeed="2" blendcolor="0x000000" softedge="0" blendtime="1" enabled="1" zoomoutpause="1" zoomin="7"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedwheel="0" rubberband="0" hideabout="0" sensitivity="8" contextvr="1" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" invertcontrol="1" simulatemass="1" speedwheel="1" contextfullscreen="1" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input height="2752" levelbias="0.400" leveltilesize="510" width="2752" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="2752" predecode="0" width="2752"/>
+      <level preload="0" height="1376" predecode="0" width="1376"/>
+      <level preload="0" height="688" predecode="0" width="688"/>
+      <level preload="1" height="344" predecode="1" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" projection="4" tilt="-3.19" pan="-179.05"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-80" pan="0"/>
+      <max fovstereographic="330" scaletofit="1" fov="140" tilt="90" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata tags="100RICOH" info="" author="" latitude="52.267319" datetime="06.07.25 18:23" customnodeid="" comment="" nodeid="node5" title="Friseurplätze 3-4" copyright="" longitude="9.132197" heading="0" source="" altitude="121.90" description=""/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" width="180" textcolor="0x000000" background="1" textalpha="1" backgroundalpha="1" borderradius="1" enabled="1" border="1" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0"/>
+      <hotspot distance="15.8019" tilt="-15.57" skinid="ht_node" title="Friseurplätze 1-2" target="3.7/-10.2/100.0" url="{node4}" pan="-0.34" description="" id="Point01"/>
+      <hotspot url="images/8f861c8a-55fa-4dac-a42b-bc97bad89c70.jpg" target="" tilt="-30.31" skinid="ht_image" pan="-79.62" title="" description="" id="Point02"/>
+      <hotspot url="images/8faadc49-5aa5-40ad-a38f-a478db00fb02.jpg" target="" tilt="-44.8" skinid="ht_image" pan="-216.19" title="" description="" id="Point03"/>
+      <hotspot url="images/e6d1dd84-f420-4b7e-a07b-f6080dd52750.jpg" target="" tilt="-31.59" skinid="ht_image" pan="-336.52" title="" description="" id="Point04"/>
+      <hotspot url="images/d68909ab-f78a-4499-9c72-bee82d311f01.jpg" target="" tilt="-15.7" skinid="ht_image" pan="-349.64" title="" description="" id="Point05"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" delay="none" zoomafteroutfov="40" type="mesh" zoomafterinfov="140" zoomout="0" zoomspeed="2" blendcolor="0x000000" softedge="0" blendtime="1" enabled="1" zoomoutpause="1" zoomin="7"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedwheel="0" rubberband="0" hideabout="0" sensitivity="8" contextvr="1" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" invertcontrol="1" simulatemass="1" speedwheel="1" contextfullscreen="1" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input height="2752" levelbias="0.400" leveltilesize="510" width="2752" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="2752" predecode="0" width="2752"/>
+      <level preload="0" height="1376" predecode="0" width="1376"/>
+      <level preload="0" height="688" predecode="0" width="688"/>
+      <level preload="1" height="344" predecode="1" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" projection="4" tilt="-25.42" pan="-173.43"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-80" pan="0"/>
+      <max fovstereographic="330" scaletofit="1" fov="140" tilt="90" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata tags="100RICOH" info="" author="" latitude="52.267431" datetime="06.07.25 18:23" customnodeid="" comment="" nodeid="node6" title="Wartebereich" copyright="" longitude="9.132119" heading="0" source="" altitude="121.20" description=""/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" width="180" textcolor="0x000000" background="1" textalpha="1" backgroundalpha="1" borderradius="1" enabled="1" border="1" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0"/>
+      <hotspot distance="2.55726" tilt="-15.49" skinid="ht_node" title="Waschsalon" target="-88.8/-16.9/100.0" url="{node7}" pan="-91.58" description="" id="Point02"/>
+      <hotspot distance="19.0423" tilt="-11.8" skinid="ht_node" title="Kassenbereich" target="176.6/-11.1/100.0" url="{node3}" pan="-270.6" description="" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" delay="none" zoomafteroutfov="40" type="mesh" zoomafterinfov="140" zoomout="0" zoomspeed="2" blendcolor="0x000000" softedge="0" blendtime="1" enabled="1" zoomoutpause="1" zoomin="7"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedwheel="0" rubberband="0" hideabout="0" sensitivity="8" contextvr="1" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" invertcontrol="1" simulatemass="1" speedwheel="1" contextfullscreen="1" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input height="2752" levelbias="0.400" leveltilesize="510" width="2752" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="2752" predecode="0" width="2752"/>
+      <level preload="0" height="1376" predecode="0" width="1376"/>
+      <level preload="0" height="688" predecode="0" width="688"/>
+      <level preload="1" height="344" predecode="1" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" projection="4" tilt="-16.87" pan="-88.82"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-80" pan="0"/>
+      <max fovstereographic="330" scaletofit="1" fov="140" tilt="90" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata tags="100RICOH" info="" author="" latitude="52.267444" datetime="06.07.25 18:24" customnodeid="" comment="" nodeid="node7" title="Waschsalon" copyright="" longitude="9.132150" heading="0" source="" altitude="121.50" description=""/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" width="180" textcolor="0x000000" background="1" textalpha="1" backgroundalpha="1" borderradius="1" enabled="1" border="1" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0"/>
+      <hotspot distance="12.3265" tilt="-5.98" skinid="ht_node" title="Friseurplatz 5" target="" url="{node8}" pan="-136.03" description="" id="Point01"/>
+      <hotspot distance="2.55726" tilt="-13.51" skinid="ht_node" title="Wartebereich" target="-179.4/-33.3/100.0" url="{node6}" pan="-270.21" description="" id="Point02"/>
+      <hotspot url="images/91cc9367-adc4-45e9-96b2-cb82ab831641.jpg" target="" tilt="-25.09" skinid="ht_image" pan="-170.38" title="" description="" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" delay="none" zoomafteroutfov="40" type="mesh" zoomafterinfov="140" zoomout="0" zoomspeed="2" blendcolor="0x000000" softedge="0" blendtime="1" enabled="1" zoomoutpause="1" zoomin="7"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedwheel="0" rubberband="0" hideabout="0" sensitivity="8" contextvr="1" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" invertcontrol="1" simulatemass="1" speedwheel="1" contextfullscreen="1" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input height="2752" levelbias="0.400" leveltilesize="510" width="2752" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="2752" predecode="0" width="2752"/>
+      <level preload="0" height="1376" predecode="0" width="1376"/>
+      <level preload="0" height="688" predecode="0" width="688"/>
+      <level preload="1" height="344" predecode="1" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" projection="4" tilt="-19.7" pan="93.17"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-80" pan="0"/>
+      <max fovstereographic="330" scaletofit="1" fov="140" tilt="90" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata tags="100RICOH" info="" author="" latitude="52.267553" datetime="06.07.25 18:25" customnodeid="" comment="" nodeid="node8" title="Friseurplatz 5" copyright="" longitude="9.132183" heading="0" source="" altitude="126.80" description=""/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" width="180" textcolor="0x000000" background="1" textalpha="1" backgroundalpha="1" borderradius="1" enabled="1" border="1" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0"/>
+      <hotspot distance="12.3265" tilt="-12.84" skinid="ht_node" title="Waschsalon" target="85.8/-13.2/100.0" url="{node7}" pan="-300.26" description="" id="Point01"/>
+      <hotspot url="images/91cc9367-adc4-45e9-96b2-cb82ab831641.jpg" target="" tilt="-31.81" skinid="ht_image" pan="-259.22" title="" description="" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" delay="none" zoomafteroutfov="40" type="mesh" zoomafterinfov="140" zoomout="0" zoomspeed="2" blendcolor="0x000000" softedge="0" blendtime="1" enabled="1" zoomoutpause="1" zoomin="7"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control lockedwheel="0" rubberband="0" hideabout="0" sensitivity="8" contextvr="1" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" invertcontrol="1" simulatemass="1" speedwheel="1" contextfullscreen="1" zoomcentercursor="1"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" author="" description="Friseur Chicimicki" comment="" title="Panorama Kollektiv" copyright=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
